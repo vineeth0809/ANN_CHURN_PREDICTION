@@ -4,7 +4,7 @@ import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder, StandardScaler
 import pickle
-
+#testing git
 
 
 model = tf.keras.models.load_model('churn_model.h5')
